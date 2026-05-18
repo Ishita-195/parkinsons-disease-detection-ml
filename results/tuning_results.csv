@@ -1,0 +1,4 @@
+Model,Recall,F1,Note
+SVM (Default),1.0,0.9508196721311475,Before tuning
+SVM (Tuned),1.0,0.8529411764705882,"Best params: {'C': 0.1, 'gamma': 1, 'kernel': 'rbf'}"
+XGBoost (Tuned),0.9655172413793104,0.9491525423728814,RandomizedSearchCV with 50 iters
