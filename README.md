@@ -136,10 +136,11 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
-## 🙋 Author
+## 👤 Author
 
-**Ishita** — [@Ishita-195](https://github.com/Ishita-195)
-
+**Ishita**  
+Computer Science & Engineering Student | KIIT University, Bhubaneswar  
+GitHub: [@Ishita-195](https://github.com/Ishita-195)
 ---
 
 > ⚠️ *This project is for educational purposes only and is not intended for clinical or diagnostic use.*
