@@ -138,7 +138,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 👤 Author
 
-**Ishita**  
+**Ishita Anand**  
 Computer Science & Engineering Student | KIIT University, Bhubaneswar  
 GitHub: [@Ishita-195](https://github.com/Ishita-195)
 ---
