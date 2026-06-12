@@ -4,7 +4,7 @@ A machine learning project for early detection of Parkinson's Disease using biom
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 parkinsons-disease-detection-ml/
@@ -18,7 +18,7 @@ parkinsons-disease-detection-ml/
 
 ---
 
-## 🔍 Overview
+##  Overview
 
 Parkinson's Disease (PD) is a progressive neurological disorder. This project uses machine learning on biomedical voice measurements to classify whether a patient has Parkinson's Disease.
 
@@ -31,7 +31,7 @@ Parkinson's Disease (PD) is a progressive neurological disorder. This project us
 
 ---
 
-## 📊 Dataset
+##  Dataset
 
 The dataset used is the **UCI Parkinson's Disease dataset**, containing biomedical voice measurements from 195 recordings (147 with PD, 48 healthy controls).
 
@@ -46,7 +46,7 @@ The dataset used is the **UCI Parkinson's Disease dataset**, containing biomedic
 
 ---
 
-## 🤖 Models Used
+##  Models Used
 
 - Logistic Regression
 - Support Vector Machine (SVM)
@@ -57,7 +57,7 @@ Hyperparameter tuning was performed using **GridSearchCV / RandomizedSearchCV**.
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 
