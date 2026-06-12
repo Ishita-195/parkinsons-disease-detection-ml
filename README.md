@@ -1,4 +1,4 @@
-# 🧠 Parkinson's Disease Detection — Machine Learning System
+# Parkinson's Disease Detection — Machine Learning System
 
 A machine learning project for early detection of Parkinson's Disease using biomedical voice measurements. Includes exploratory data analysis, preprocessing, model training, hyperparameter tuning, and an interactive **Streamlit** web application.
 
