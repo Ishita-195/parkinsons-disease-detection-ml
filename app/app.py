@@ -1,13 +1,17 @@
 import streamlit as st
 import pickle
 import numpy as np
+from pathlib import Path
+
+# Resolve paths relative to this file so it works locally and when deployed
+BASE_DIR = Path(__file__).resolve().parent.parent  # -> repo root
 
 # Load model
-with open("../models/parkinsons_svm.pkl", "rb") as file:
+with open(BASE_DIR / "models" / "parkinsons_svm.pkl", "rb") as file:
     model = pickle.load(file)
 
 # Load scaler
-with open("../models/scaler.pkl", "rb") as file:
+with open(BASE_DIR / "models" / "scaler.pkl", "rb") as file:
     scaler = pickle.load(file)
 
 st.title("Parkinson's Disease Detection")
