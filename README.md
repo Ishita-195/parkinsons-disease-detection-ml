@@ -2,7 +2,7 @@
 
 A machine learning project for early detection of Parkinson's Disease using biomedical voice measurements. Includes exploratory data analysis, preprocessing, model training, hyperparameter tuning, and an interactive **Streamlit** web application.
 
- **Live Demo:** [parkinsons-detection-app.streamlit.app](https://parkinsons-detection-app.streamlit.app/)eamlit.app/)
+ **Live Demo:** [parkinsons-detection-app.streamlit.app](https://parkinsons-detection-app.streamlit.app/)
 
 ---
 
