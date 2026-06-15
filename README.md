@@ -2,9 +2,11 @@
 
 A machine learning project for early detection of Parkinson's Disease using biomedical voice measurements. Includes exploratory data analysis, preprocessing, model training, hyperparameter tuning, and an interactive **Streamlit** web application.
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Streamlit-FF4B4B?logo=streamlit&logoColor=white)](https://parkinsons-detection-app.streamlit.app/)
-[![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python&logoColor=white)](https://www.python.org/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+<div align="center">
+  <a href="https://parkinsons-detection-app.streamlit.app/">
+    <img src="https://img.shields.io/badge/▶_Try_the_Live_Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Live Demo"/>
+  </a>
+</div>
 
 ##  Project Structure
 
