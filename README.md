@@ -92,7 +92,7 @@ The app will open in your browser at `http://localhost:8501`.
 
 ---
 
-## 📓 Notebooks
+## Notebooks
 
 | Notebook | Description |
 |----------|-------------|
@@ -103,7 +103,7 @@ The app will open in your browser at `http://localhost:8501`.
 
 ---
 
-## 📈 Results
+## Results
 
 Model performance is tracked using:
 - Accuracy
@@ -115,13 +115,13 @@ Evaluation outputs are saved in the `results/` folder.
 
 ---
 
-## 🖥️ Streamlit App
+## Streamlit App
 
 The web app allows users to input voice measurement values and get an instant prediction on whether the patient is likely to have Parkinson's Disease. The best-performing model is loaded from the `models/` directory.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Python** — Core language
 - **Pandas, NumPy** — Data manipulation
@@ -134,13 +134,13 @@ The web app allows users to input voice measurement values and get an instant pr
 
 ---
 
-## 📄 License
+## License
 
 This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
-## 👤 Author
+## Author
 
 **Ishita Anand**  
 Computer Science & Engineering Student | KIIT University, Bhubaneswar  
